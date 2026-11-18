@@ -4,6 +4,15 @@
 
 Marginalia is a KOReader plugin for adding decorative artwork to ebooks without modifying the original book files. Combine ornaments, adjust their placement and size, and save the result as a reusable composition profile. It is designed for E Ink readers, including monochrome and color devices.
 
+## Screenshots
+
+### Black & White
+![Marginalia 1](https://raw.githubusercontent.com/rmmr111/Marginalia.Koplugin/main/Screenshots/Marginalia1.png)
+
+
+### Color E-Ink
+![Marginalia Color - Gallery](https://raw.githubusercontent.com/rmmr111/Marginalia.Koplugin/main/Screenshots/marginalia%20color1.png)
+
 ## Features
 
 - **Ornament gallery:** browse borders, half-page borders, corners, strips, dividers, and decorative figures.
